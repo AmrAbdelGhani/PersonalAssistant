@@ -1,0 +1,13 @@
+C:\Users\Amr\Desktop\IntentRecognition\IntentRecognition\bin\Debug\IntentRecognition.exe.config
+C:\Users\Amr\Desktop\IntentRecognition\IntentRecognition\obj\Debug\Interop.WMPLib.dll
+C:\Users\Amr\Desktop\IntentRecognition\IntentRecognition\obj\Debug\IntentRecognition.csproj.ResolveComReference.cache
+C:\Users\Amr\Desktop\Top Secret\IntentRecognition\IntentRecognition\bin\Debug\IntentRecognition.exe.config
+C:\Users\Amr\Desktop\Top Secret\IntentRecognition\IntentRecognition\obj\Debug\Interop.WMPLib.dll
+C:\Users\Amr\Desktop\Top Secret\IntentRecognition\IntentRecognition\obj\Debug\IntentRecognition.csproj.ResolveComReference.cache
+C:\Users\Amr\Desktop\Top Secret\IntentRecognition\IntentRecognition\bin\Debug\IntentRecognition.exe
+C:\Users\Amr\Desktop\Top Secret\IntentRecognition\IntentRecognition\bin\Debug\IntentRecognition.pdb
+C:\Users\Amr\Desktop\Top Secret\IntentRecognition\IntentRecognition\obj\Debug\IntentRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Amr\Desktop\Top Secret\IntentRecognition\IntentRecognition\obj\Debug\IntentRecognition.Properties.Resources.resources
+C:\Users\Amr\Desktop\Top Secret\IntentRecognition\IntentRecognition\obj\Debug\IntentRecognition.csproj.GenerateResource.Cache
+C:\Users\Amr\Desktop\Top Secret\IntentRecognition\IntentRecognition\obj\Debug\IntentRecognition.exe
+C:\Users\Amr\Desktop\Top Secret\IntentRecognition\IntentRecognition\obj\Debug\IntentRecognition.pdb
